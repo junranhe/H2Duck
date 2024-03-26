@@ -1,0 +1,7 @@
+.idea
+*.iml
+/error.lock
+/test_copy
+/test_copy.wal
+/src/main/resources/config.yaml
+/src/main/resources/testconfig.yaml

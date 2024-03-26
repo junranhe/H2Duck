@@ -1,0 +1,9 @@
+name: 'database_name'
+baseDir: '/Users/me/db_dir'
+port: 4007
+logDir: '/Users/me/log_dir'
+mysqlIp: '192.168.1.1'
+mysqlPort: 3306
+mysqlUser: test
+mysqlPassword: 123
+forbidWrite: true

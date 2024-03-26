@@ -1,0 +1,5 @@
+name: 'test0'
+baseDir: '/Users/me/test_db_dir'
+port: 10987
+logDir: '/Users/me/test_db_log_dir'
+sqlTimeout: 1
